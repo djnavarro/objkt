@@ -1,2 +1,12 @@
 # Redirects from what the browser requests to what netlify serves
 / https://objkt.com/profile/tz1hXKn2BcU64HxSrmojfuf7cDoweJ9xwxZ7/
+
+# Dreamlike
+/dreamlike https://objkt.com/collection/KT1LuszbJ1h5riAzHxcA9ikWvZChjGB8r1X7
+/dream-like https://objkt.com/collection/KT1LuszbJ1h5riAzHxcA9ikWvZChjGB8r1X7
+
+# Water colours
+/water-colours https://objkt.com/collection/KT1CJacBkfZ8PQrzNMWpa3QU9ii9wBH9dAoK
+/water-colors https://objkt.com/collection/KT1CJacBkfZ8PQrzNMWpa3QU9ii9wBH9dAoK
+/watercolours https://objkt.com/collection/KT1CJacBkfZ8PQrzNMWpa3QU9ii9wBH9dAoK
+/watercolors https://objkt.com/collection/KT1CJacBkfZ8PQrzNMWpa3QU9ii9wBH9dAoK
