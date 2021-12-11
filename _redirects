@@ -1,6 +1,9 @@
 # Redirects from what the browser requests to what netlify serves
 / https://objkt.com/profile/tz1hXKn2BcU64HxSrmojfuf7cDoweJ9xwxZ7/
 
+# collections page
+/collections https://objkt.com/profile/djnavarro/collections
+
 # Dreamlike
 /dreamlike https://objkt.com/collection/KT1LuszbJ1h5riAzHxcA9ikWvZChjGB8r1X7
 /dream-like https://objkt.com/collection/KT1LuszbJ1h5riAzHxcA9ikWvZChjGB8r1X7
